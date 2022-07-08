@@ -1,3 +1,6 @@
+# alura-react-testando-seus-componentes
+Curso de React: Testando seus componentes da formação React com Typescript da Plataforma Alura
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
